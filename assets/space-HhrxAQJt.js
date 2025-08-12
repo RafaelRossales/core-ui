@@ -1,0 +1,3 @@
+import{j as t}from"./index-B7JyZ9el.js";import{useMDXComponents as s}from"./index-CubahUXM.js";import{M as r}from"./blocks-Bp3eENc_.js";import{T as m}from"./TokensGrid-D2Ue4LSI.js";import{s as a}from"./index-DpJUz8VN.js";import"./iframe-DFiWxftH.js";import"./preload-helper-CYK7Ldck.js";import"./index-C01qH_-f.js";function o(e){const n={h1:"h1",...s(),...e.components};return t.jsxs(t.Fragment,{children:[t.jsx(r,{title:"Tokens/Spaces"}),`
+`,t.jsx(n.h1,{id:"space",children:"Space"}),`
+`,t.jsx(m,{tokens:a,hasRemValues:!0})]})}function h(e={}){const{wrapper:n}={...s(),...e.components};return n?t.jsx(n,{...e,children:t.jsx(o,{...e})}):o(e)}export{h as default};

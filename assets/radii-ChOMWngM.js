@@ -1,0 +1,3 @@
+import{j as t}from"./index-B7JyZ9el.js";import{useMDXComponents as i}from"./index-CubahUXM.js";import{M as e}from"./blocks-Bp3eENc_.js";import{T as s}from"./TokensGrid-D2Ue4LSI.js";import{r as m}from"./index-DpJUz8VN.js";import"./iframe-DFiWxftH.js";import"./preload-helper-CYK7Ldck.js";import"./index-C01qH_-f.js";function r(n){const o={h1:"h1",...i(),...n.components};return t.jsxs(t.Fragment,{children:[t.jsx(e,{title:"Tokens/Radii"}),`
+`,t.jsx(o.h1,{id:"radii",children:"Radii"}),`
+`,t.jsx(s,{tokens:m})]})}function h(n={}){const{wrapper:o}={...i(),...n.components};return o?t.jsx(o,{...n,children:t.jsx(r,{...n})}):r(n)}export{h as default};
